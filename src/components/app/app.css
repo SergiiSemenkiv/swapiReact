@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 1rem;
+}
+
+.list-group-item {
+    border-radius: 0!important;
+    border: none;
+    border-bottom: 1px solid #444;
+}
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.media img {
+    width: 30%;
+    max-width: 230px;
+}
